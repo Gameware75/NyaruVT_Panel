@@ -1,0 +1,155 @@
+<!DOCTYPE html>
+<html lang="de">
+<head>
+    <meta charset="UTF-8">
+    <title>Huch wer bist du?</title>
+</head>
+<link rel="stylesheet" href="style.css" >
+
+<body>
+<div class="container" id="loading" style="display: block">
+    <h1 style="padding-top: 100px">Bitte Warten...</h1>
+    <img src="https://api.nyaru.de/img/icons/loading.gif" alt="loading" style="width: 50%">
+    <div class="footer" style="padding-top: 110px">
+        <a>
+            <p style="text-align: center" class="ft">Made with <a id="herz" class="heart">❤️</a> by <a href="https://gw75.carrd.co/" target="_blank">Gameware75</a>.</p>
+        </a>
+    </div>
+</div>
+<div class="container" id="link" >
+    <img src="https://api.nyaru.de/img/icons/Hi.webp" alt="KeichoVT" style="padding-top: 100px">
+    <p>Hi bevor du hier weiter machst, must du erstmal dein twitch account mit dem panel verbinden.</p>
+    <button id="login" style="background-color: rgba(255,184,248,0.84); border: none; color: black; padding: 10px 20px; text-align: center; text-decoration: none; display: inline-block; font-size: 16px; margin: 4px 2px; cursor: pointer; border-radius: 10px">Anmelden</button>
+<p style="font-size: 12px">Mit dem anmelden erklärst du dich mit unseren <a href="https://panel.nyaru.de/agb" target="_blank">AGBs</a> und der <a href="https://panel.nyaru.de/privacy" target="_blank">Datenschutzerklärung</a> einverstanden.</p>
+    <p style="font-size: 12px">&nbsp</p>
+    <div class="footer" >
+        <a>
+            <p style="text-align: center" class="ft">Made with <a id="herz" class="heart">❤️</a> by <a href="https://gw75.carrd.co/" target="_blank">Gameware75</a>.</p>
+        </a>
+    </div>
+</div>
+<div class="container" id="offline" >
+    <div class="icon-header">
+        <img src="https://api.nyaru.de/img/icons/star.png" id="ranglisteiconne" alt="rangliste">
+        <h1 style="margin-right: 35px">NyaruVT ist offline</h1>
+
+
+    </div>
+    <p>Hier ist sein Stream Plan:</p>
+    <img src="https://api.nyaru.de/Stream-Plan" alt="Stream Plan" style="width: 100%">
+</div>
+<div class="container" id="error" >
+    <h1 style="padding-top: 50px">Ein Fehler ist aufgetreten</h1>
+    <p>Aufgrund einer technischen Störung ist das Panel vorübergehend nicht verfügbar.</p>
+    <p>Wir arbeiten daran, das Problem so schnell wie möglich zu beheben.</p>
+    <p>Bitte versuche es zu einem späteren Zeitpunkt erneut.</p>
+</div>
+
+<div class="container" id="panel">
+    <p class="menü1" style="padding: 0px; margin-top: 10px; margin-bottom: 10px;">
+        <img src="https://api.nyaru.de/img/icons/star.png" id="ranglisteicon" alt="rangliste">
+        <span class="text-container">
+    <img src="https://api.nyaru.de/img/icons/Logo.png" id="logo" alt="NyaruVT">
+  </span>
+        <img src="https://api.nyaru.de/img/icons/profile.webp" id="profilicon">
+    </p>
+    <div class="menü2">
+        <button id="categorieswitchl" style="margin-bottom: 10px" class="site-switch" ><img src="https://api.nyaru.de/img/icons/arrow_l.png" height="25px"></button>
+        <a><img src="https://api.nyaru.de/img/icons/loading.gif" height="30" width="30" style="border: none; border-radius: 0px; margin-right: 20px; object-fit: contain;" id="Lcategorie"></a>
+        <a><img src="https://api.nyaru.de/img/icons/loading.gif" height="50" width="50" style="border: none; border-radius: 0px; object-fit: contain;"  id="Mcategorie"></a>
+        <a><img src="https://api.nyaru.de/img/icons/loading.gif" height="30"width="30"  style="border: none; border-radius: 0px; margin-left: 20px; object-fit: contain;" id="Rcategorie"></a>
+        <button style="margin-bottom: 10px" id="categorieswitchr" class="site-switch"><img src="https://api.nyaru.de/img/icons/arrow_r.png" height="25px"></button>
+    </div>
+    <p style="font-size: 10px"></p>
+
+    <div class="menü3" style="padding:  0px; margin: 0px auto; text-align: center; height: 230px; padding-top: 5px">
+   <p>Die Produkte werden geladen</p> <img src="https://api.nyaru.de/img/icons/loading.gif" alt="loading" style="width: 50%">
+    </div>
+<div class="containerss" style="font-size: 15px; padding-top: 3px">
+    <button id="back" class="site-switch" disabled>
+        <img src="https://api.nyaru.de/img/icons/arrow_l.png" height="20px">
+    </button>
+    <div class="text-center">
+        <a style="font-size: 10px">
+            <a id="dias" style="font-weight: bold; text-decoration: underline; font-size: 17px">Wait...</a> Diamonds
+        </a>
+    </div>
+    <button id="next" class="site-switch" disabled>
+        <img src="https://api.nyaru.de/img/icons/arrow_r.png" height="20px">
+    </button>
+</div>
+    <div class="footer" style="display: block">
+
+    </div>
+    </div>
+<div class="container" id="rangliste">
+    <h2>Rangliste</h2>
+    <button class="myButton" id="exit3">Zurück zu Panel</button>
+    <table style="width: 100%;" id="ranglistetabele">
+        <tr>
+            <th>Platz</th>
+            <th>Username</th>
+            <th>Dias</th>
+        </tr>
+    </table>
+</div>
+
+<div class="container" id="rangliste2">
+    <h2>Rangliste</h2>
+    <button class="myButton" id="exit4">exit</button>
+    <table style="width: 100%;" id="ranglistetabele2">
+        <tr>
+            <th>Platz</th>
+            <th>Username</th>
+            <th>Dias</th>
+        </tr>
+    </table>
+</div>
+<div class="container" id="puscharecomfirm">
+
+    <h2 style="margin-top: 40px">Kauf Erfolgreich</h2>
+    <img src="https://api.nyaru.de/img/ChibiNyaru.png"  height="300">
+    <p>Dein Kauf war erfolgreich</p>
+</div>
+<div class="container" id="puschareerror">
+    <h2  style="margin-top: 100px">Kauf Fehlgeschlagen</h2>
+    <img src="https://api.nyaru.de/img/icons/error.webp"  height="200">
+    <!-- todo:Error pushare img anpassen-->
+    <p id ="puschareerror-text">Wait...</p>
+</div>
+
+
+<div class="container" id="profil">
+    <h2>Profil</h2>
+    <img src="https://api.nyaru.de/img/icons/loading.gif" alt="profilbild" id="profilbild" height="200">
+    <p><a id="username" style="font-size: 25px">Username</a></p>
+    <p>Du hast <a id="diaspanel">Wait...</a> Dias</p>
+    <p>Du bist auf rang <a id="rang">Wait...</a></p>
+    <button class="myButton" id="exit1">Zurück zu Panel</button>
+</div>
+<div class="container" id="product">
+    <div class="container" style="display: block">
+
+        <img src="https://api.nyaru.de/img/icons/loading.gif" height="280" style="max-width: 100%; object-fit: contain;" id="img" alt="Produckt">
+        <p id="name">Loading...</p>
+        <p id="price">Loading...</p>
+        <button class="myButton" id="buybtn" disabled>Wait...</button>
+        <p></p>
+        <a>
+            <button class="myButton" id="exit2">Zurück zu Produckt Auswahl</button>
+        </a>
+    </div>
+</div>
+<div class="container" id="nyaruhinweis" >
+    <h1 style="padding-top: 150px">Huch das Panel ist noch nicht einsatzbereit</h1>
+    <p>Bitte Sage NyaruVT bescheid das hier etwas nicht stimmt</p>
+</div>
+<div class="container" id="banned"  >
+    <img src="https://api.nyaru.de/img/icons/banned.webp" alt="NyaruVT" style="padding-top: 100px">
+    <h2>Du wurdest vom Panel ausgeschlossen</h2>
+    <p>Userid: <a id="userid">Wait...</a></p>
+</div>
+<script src="https://extension-files.twitch.tv/helper/v1/twitch-ext.min.js"></script>
+<script src="main.js"></script>
+</body>
+</html>
