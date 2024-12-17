@@ -46,7 +46,6 @@ Erfahre hier, wie du **Diamanten** verdienen kannst und wie das Panel funktionie
 | 💸 **Geld spenden**              | **100** Diamanten pro **1 Euro**       |
 | 🚀 **Discord Server Boost**       | **100** Diamanten alle **7 Tage**     *(Solange der Boost aktiv ist & Twitch mit Discord verknüpft ist)*  |
 
-
 ---
 
 ## 🧭 **Aufbau und Navigation**
@@ -73,3 +72,13 @@ Viel Freude beim Sammeln von Diamanten und beim Stylen von **NyaruVT**! 💎✨
 Zeige deinen Support, sammle Belohnungen und entdecke alle Möglichkeiten im **NyaruVT Panel**!
 
 ---
+
+## ⚠️ **Rechtliche Hinweise**
+
+Dieses Projekt und der enthaltene Code sind durch das **Urheberrecht** geschützt. Eine Nutzung, Änderung oder Verbreitung des Codes ist **ohne ausdrückliche schriftliche Erlaubnis** nicht gestattet. Weitere Details findest du in der [LICENSE.md](./LICENSE.md).
+
+---
+
+## 🚀 **Verbesserungen willkommen!**
+
+Wir freuen uns über Vorschläge und Verbesserungen! Wenn du Ideen hast, kannst du gerne einen **Pull Request** erstellen und uns deine Vorschläge mitteilen. 😊
