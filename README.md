@@ -1,50 +1,75 @@
-# NyaruVT Twitch Panel
+# 🌟 **NyaruVT Twitch Panel** 💎
 
-Das NyaruVT Twitch Panel ermöglicht es von NyaruVT sein Erscheinungsbild (Klamotten) mithilfe von Diamanten zu ändern.
+Willkommen beim **NyaruVT Twitch Panel**! Hier kannst du das Aussehen (z.B. Kleidung) von **NyaruVT** ändern – und das alles mit **Diamanten**! 💠
 
-# Wie bekommt man Diamanten?
-
-### NyaruVT Kanel
-- **Zuschauen** 
-  - Ohne Sub: 5 Dia alle 12 min
-  - Stufe 1: 15 Dia alle 12 min
-  - Stufe 2: 25 Dia alle 12 min`
-  - Stufe 3: 40 Dia alle 12 min
-- **Bits Spenden** 
-    - 75 Dia pro 100 Bits
-- **Sub** 
-    - Wenn du mit Stufe 1 abonnierst erhältst du für das Abonnieren 500 Dias
-    - Wenn du mit Stufe 2 abonnierst erhältst du für das Abonnieren 1200 Dias
-    - Wenn du mit Stufe 3 abonnierst erhältst du für das Abonnieren 2500 Dias
-- **Gift-Sub** 
-  - Pro Tier 1 gift Sub = 250 Dias
-  - Pro Tier 2 gift Sub = 600 Dias
-  - Pro Tier 3 gift Sub = 1250 Dias
-- **Chatten** 
-  - Alle 5 Min 5 Dia für 1 Nachricht
+Erfahre hier, wie du **Diamanten** verdienen kannst und wie das Panel funktioniert. 🕹️
 
 ---
-### NyaruVT_Panel
-- **Zuschauen**
-  - Alle 6 Minuten 2 Dia
-- **Chatten**
-  - Alle 60 Min 20 Dia für 1 Nachricht bis maximal 100 Dia pro Tag
-    
+
+## 🎁 **Wie bekomme ich Diamanten?**
+
+### 🔹 **NyaruVT Twitch Kanal**
+
+| **Aktion**                       | **Belohnung**                          |
+|----------------------------------|---------------------------------------:|
+| 🕒 **Zuschauen**                 |                                        |
+| Ohne Sub                         | **5** Diamanten alle **12 Minuten**    |
+| Stufe 1 Sub                      | **15** Diamanten alle **12 Minuten**   |
+| Stufe 2 Sub                      | **25** Diamanten alle **12 Minuten**   |
+| Stufe 3 Sub                      | **40** Diamanten alle **12 Minuten**   |
+| 💜 **Bits Spenden**              | **75** Diamanten pro **100 Bits**      |
+| ⭐ **Abonnieren**                 |                                        |
+| Stufe 1 Sub                      | **500** Diamanten                      |
+| Stufe 2 Sub                      | **1200** Diamanten                     |
+| Stufe 3 Sub                      | **2500** Diamanten                     |
+| 🎁 **Gift-Subs**                 |                                        |
+| Tier 1 Gift Sub                  | **250** Diamanten                      |
+| Tier 2 Gift Sub                  | **600** Diamanten                      |
+| Tier 3 Gift Sub                  | **1250** Diamanten                     |
+| 💬 **Chatten**                   | **5** Diamanten alle **5 Minuten** (1 Nachricht) |
+
 ---
 
-### Sonstiges
-- **Geld Spenden**
-    - Pro Euro 100 Dias
-- **NyaruVT Discord Server Boost**
-  - Für jeden Discord Server Boost 100 Dia alle 7 tage (Solange der boost Aktiv ist und euer twitch mit euren dc verbunden ist)
-# Aufbau und navigation
-## Navigation:
+### 🔹 **NyaruVT Panel**
 
-- **Ganz oben mittig:** Durch die verschiedenen Kategorien blättern
-- **Ganz oben links:** Rangliste anzeigen
-- **Ganz oben rechts:** Eigenes Profil anzeigen
+| **Aktion**                       | **Belohnung**                          |
+|----------------------------------|---------------------------------------:|
+| 🕒 **Zuschauen**                 | **2** Diamanten alle **6 Minuten**     |
+| 💬 **Chatten**                   | **20** Diamanten alle **60 Minuten**   *(Maximal **100** Diamanten pro Tag)* |
 
-## Produktansicht:
+---
 
-- Mittig werden immer Produkte pro Seite angezeigt. Die Seite kann unten gewechselt werden.
-- Klicke auf ein Produkt und bestätige den Kauf, um den Artikel einzulösen.
+### 🔹 **Sonstige Möglichkeiten**
+
+| **Aktion**                       | **Belohnung**                          |
+|----------------------------------|---------------------------------------:|
+| 💸 **Geld spenden**              | **100** Diamanten pro **1 Euro**       |
+| 🚀 **Discord Server Boost**       | **100** Diamanten alle **7 Tage**     *(Solange der Boost aktiv ist & Twitch mit Discord verknüpft ist)*  |
+
+
+---
+
+## 🧭 **Aufbau und Navigation**
+
+### 🔍 **Navigation**
+
+- 📌 **Ganz oben mittig:** Durch die verschiedenen **Kategorien** blättern.
+- 🏆 **Ganz oben links:** Die **Rangliste** anzeigen.
+- 👤 **Ganz oben rechts:** Dein **eigenes Profil** anzeigen.
+
+---
+
+### 🛍️ **Produktansicht**
+
+- In der **Mitte** findest du die **Produkte** pro Seite.  
+- Nutze die Navigation **unten**, um durch die Seiten zu wechseln.  
+- **Produkt kaufen**: Klicke auf ein Produkt und **bestätige den Kauf**, um den Artikel einzulösen.
+
+---
+
+## 🎮 **Viel Spaß!** 🎉
+
+Viel Freude beim Sammeln von Diamanten und beim Stylen von **NyaruVT**! 💎✨  
+Zeige deinen Support, sammle Belohnungen und entdecke alle Möglichkeiten im **NyaruVT Panel**!
+
+---
