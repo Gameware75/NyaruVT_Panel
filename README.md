@@ -77,6 +77,8 @@ Zeige deinen Support, sammle Belohnungen und entdecke alle Möglichkeiten im **N
 
 Dieses Projekt und der enthaltene Code sind durch das **Urheberrecht** geschützt. Eine Nutzung, Änderung oder Verbreitung des Codes ist **ohne ausdrückliche schriftliche Erlaubnis** nicht gestattet. Weitere Details findest du in der [LICENSE.md](./LICENSE.md).
 
+**Beachte:** Sollte die Idee des Panels oder ähnliche Konzepte in eigenen Projekten verwendet werden, erwarten wir, **NyaruVT als Urheber** anzuerkennen. Dies wird als eine grundlegende Bedingung betrachtet, um von der Idee zu profitieren und deren Mechanismen zu nutzen.
+
 ---
 
 ## 🚀 **Verbesserungen willkommen!**
