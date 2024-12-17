@@ -36,31 +36,34 @@ Gameware75 behält sich das Recht vor, Nutzungsgebühren oder spezifische Beding
 - **Veränderter Code** darf nicht verbreitet oder weitergegeben werden, es sei denn, eine ausdrückliche Genehmigung wurde erteilt. 
 - Alle abgeleiteten Werke, die auf diesem Code basieren, unterliegen denselben Lizenzbedingungen und dürfen nur mit schriftlicher Zustimmung von Gameware75 genutzt oder weitergegeben werden.
 
-### 5. Einschränkungen
+### 5. Verwendung der Panel-Idee und Credits an NyaruVT
+
+Sollten Sie die Grundidee des **NyaruVT Twitch Panels** oder ähnliche Konzepte in einem eigenen Projekt verwenden wollen, wird erwartet, dass Sie **NyaruVT als Urheber der Panel-Idee** anerkennen. Diese Anerkennung ist notwendig, um von der Idee zu profitieren und deren Mechanismen zu nutzen.
+
+### 6. Einschränkungen
 
 - Dieser Code darf **nicht** für unethische, illegale oder schadhafte Zwecke verwendet werden.
 - Der Code darf nicht in Produkten verwendet werden, die gegen geltendes Recht oder die Rechte Dritter verstoßen.
-- Es ist untersagt, den Code in einer Art und Weise zu verwenden, die den Ruf von Gameware75 schädigen könnte.
+- Es ist untersagt, den Code in einer Art und Weise zu verwenden, die den Ruf von Gameware75 oder NyaruVT schädigen könnte.
 
-### 6. Haftungsausschluss
+### 7. Haftungsausschluss
 
 Der Code wird **„wie besehen“** und ohne jegliche Gewährleistung zur Verfügung gestellt. Gameware75 übernimmt keine Haftung für direkte, indirekte, zufällige, spezielle oder Folgeschäden, die durch die Nutzung des Codes entstehen könnten. Dazu zählen, aber sind nicht beschränkt auf, Datenverlust, Betriebsunterbrechungen oder andere kommerzielle oder betriebliche Schäden.
 
 Der Nutzer übernimmt die volle Verantwortung für die Implementierung, Verwendung und Anpassung des Codes. Alle Risiken im Zusammenhang mit der Nutzung des Codes, insbesondere hinsichtlich der Funktionsweise und der Kompatibilität mit anderen Systemen, werden vom Nutzer getragen.
 
-### 7. Keine Übertragung von Rechten
+### 8. Keine Übertragung von Rechten
 
 Mit der Nutzung des Codes werden keine Rechte am Code selbst oder an den zugehörigen geistigen Eigentumsrechten übertragen. Gameware75 behält sich alle Rechte an diesem Code vor, einschließlich der Rechte zur Verwertung und Lizenzierung.
 
-### 8. Gültigkeit und Änderungen
+### 9. Gültigkeit und Änderungen
 
 Gameware75 behält sich das Recht vor, diese Lizenzbedingungen jederzeit zu ändern. Eine Aktualisierung dieser Bedingungen wird durch die Veröffentlichung der neuen Version in diesem Repository oder durch direkte Mitteilung an die Nutzer bekannt gegeben.
 
-### 9. Weitere Informationen
+### 10. Weitere Informationen
 
 Für zusätzliche Informationen, Klarstellungen oder spezielle Lizenzvereinbarungen können Sie sich jederzeit an Gameware75 wenden. Alle Anfragen zur Nutzung des Codes sollten schriftlich erfolgen.
 
 ---
 
 **Bitte beachten Sie, dass die Missachtung dieser Lizenzbedingungen rechtliche Konsequenzen nach sich ziehen kann. Wir empfehlen, sich vor der Nutzung des Codes sorgfältig mit den Lizenzbedingungen auseinanderzusetzen.**
-
